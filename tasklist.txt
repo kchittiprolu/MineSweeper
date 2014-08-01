@@ -1,0 +1,42 @@
+List of tasks:
+
+_X_ expose a cell
+_X_ exposing an already exposed cell
+_X_ seal a cell
+_X_ unseal a cell
+_X_ sealing an already exposed cell
+_X_ Game over on create board
+_X_ sealing a sealed cell
+_X_ unsealing a unsealed cell
+_X_ exposing a sealed cell
+_X_ game lost on exposing mine cell
+_X_ get adjacent cell count if no neighboring mines are present
+_X_ get adjacent cell count if one neighboring mines are present
+_X_ get adjacent cell count if two neighboring mines are present
+_X_ get adjacent cell count if three neighboring mines are present
+_X_ get adjacent cell count if four neighboring mines are present
+_X_ get adjacent cell count if five neighboring mines are present
+_X_ get adjacent cell count if six neighboring mines are present
+_X_ get adjacent cell count if seven neighboring mines are present
+_X_ get adjacent cell count if eight neighboring mines are present
+_X_ get adjacent cell count if a corner cell of grid is exposed. ( re-think about the method name).
+_X_ Neighboring empty cells are exposed when an empty cell is exposed.
+_X_ Expose Neigbhors Of Neighboring EmptyCells when an Empty Cell is Exposed
+_X_ Expose AdjacentCell Neighbor To An Exposed Empty Cell
+_X_ Do not Expose Neighboring Cells Of Exposed Adjacent Cell
+_X_ Figure out and decide which methods should be internal.
+_X_ Display Adjacent cell count on a cell when it is exposed.
+_X_ Display Mine After exposing a Mine cell.
+_X_ Display empty after an empty cell is exposed.
+_X_ Display Adjacent Cell Count With One Mines After Expose A Cell
+_X_ Display Adjacent Cell Count With Two Mines After Expose A Cell
+_X_ Display Adjacent Cell Count With Three Mines After Expose A Cell
+_X_ Display Adjacent Cell Count With Four Mines After Expose A Cell
+_X_ Display Adjacent Cell Count With Five Mines After Expose A Cell
+_X_ Display Adjacent Cell Count With Six Mines After Expose A Cell
+_X_ Display Adjacent Cell Count With Seven Mines After Expose A Cells
+_X_ Display Adjacent Cell Count With Eight Mines After Expose A Cell
+_X_ Display Seal After Sealing A Cell
+_X_ Display Neighboring Adjacent Cells After Expose Empty Cell
+
+

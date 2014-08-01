@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\Karthik\Documents\UH\chittiprolu_valle\Assign1\build\testClasses\MinesweeperTestLib.dll" total="46" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2013-04-21" time="00:03:30">
+  <environment nunit-version="2.5.9.10348" clr-version="2.0.50727.5466" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\Users\Karthik\Documents\UH\chittiprolu_valle\Assign1\build\testClasses" machine-name="KARTHIK-PC" user="Karthik" user-domain="Karthik-PC" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\Users\Karthik\Documents\UH\chittiprolu_valle\Assign1\build\testClasses\MinesweeperTestLib.dll" executed="True" result="Success" success="True" time="0.621" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="MinesweeperTestLib" executed="True" result="Success" success="True" time="0.578" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="MinesweeperTest" executed="True" result="Success" success="True" time="0.577" asserts="0">
+            <results>
+              <test-case name="MinesweeperTestLib.MinesweeperTest.testCanary" executed="True" result="Success" success="True" time="0.469" asserts="1" />
+              <test-case name="MinesweeperTestLib.MinesweeperTest.testDisplayAdjacentCellCountWithEightMinesAfterExposeACell" executed="True" result="Success" success="True" time="0.010" asserts="1" />
+              <test-case name="MinesweeperTestLib.MinesweeperTest.testDisplayAdjacentCellCountWithFiveMinesAfterExposeACell" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+              <test-case name="MinesweeperTestLib.MinesweeperTest.testDisplayAdjacentCellCountWithFourMinesAfterExposeACell" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+              <test-case name="MinesweeperTestLib.MinesweeperTest.testDisplayAdjacentCellCountWithOneMinesAfterExposeACell" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+              <test-case name="MinesweeperTestLib.MinesweeperTest.testDisplayAdjacentCellCountWithSevenMinesAfterExposeACell" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+              <test-case name="MinesweeperTestLib.MinesweeperTest.testDisplayAdjacentCellCountWithSixMinesAfterExposeACell" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="MinesweeperTestLib.MinesweeperTest.testDisplayAdjacentCellCountWithThreeMinesAfterExposeACell" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+              <test-case name="MinesweeperTestLib.MinesweeperTest.testDisplayAdjacentCellCountWithTwoMinesAfterExposeACell" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+              <test-case name="MinesweeperTestLib.MinesweeperTest.testDisplayEmptyCellAfterExpose" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="MinesweeperTestLib.MinesweeperTest.testDisplayMineOnCellAfterExpose" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+              <test-case name="MinesweeperTestLib.MinesweeperTest.testDisplayNeighboringAdjacentCellsAfterExposeEmptyCell" executed="True" result="Success" success="True" time="0.004" asserts="1" />
+              <test-case name="MinesweeperTestLib.MinesweeperTest.testDisplaySealAfterSealACelll" executed="True" result="Success" success="True" time="0.002" asserts="1" />
+              <test-case name="MinesweeperTestLib.MinesweeperTest.testDisplayUnsealedCell" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+              <test-case name="MinesweeperTestLib.MinesweeperTest.testDisplayUnsealSealedCell" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+              <test-case name="MinesweeperTestLib.MinesweeperTest.testExposeAdjacentCellNeighborToAnExposedEmptyCell" executed="True" result="Success" success="True" time="0.004" asserts="1" />
+              <test-case name="MinesweeperTestLib.MinesweeperTest.testExposeAnExposedCell" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="MinesweeperTestLib.MinesweeperTest.testExposeASealedCell" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+              <test-case name="MinesweeperTestLib.MinesweeperTest.testExposeCell" executed="True" result="Success" success="True" time="0.002" asserts="1" />
+              <test-case name="MinesweeperTestLib.MinesweeperTest.testExposeNeigbhorOfNeighboringEmptyCellsAfterAnEmptyCellIsExposed" executed="True" result="Success" success="True" time="0.004" asserts="1" />
+              <test-case name="MinesweeperTestLib.MinesweeperTest.testExposeNeighboringCellsOfExposedAdjacentCell" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+              <test-case name="MinesweeperTestLib.MinesweeperTest.testExposeNeighboringEmptyCellsAfterAnEmptyCellIsExposed" executed="True" result="Success" success="True" time="0.004" asserts="9" />
+              <test-case name="MinesweeperTestLib.MinesweeperTest.testGameLostIfAMineExposed" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+              <test-case name="MinesweeperTestLib.MinesweeperTest.testGameWinOnExposingAllNonMinedAndSealingAllMinedCells" executed="True" result="Success" success="True" time="0.004" asserts="1" />
+              <test-case name="MinesweeperTestLib.MinesweeperTest.testGameWinOnExposingAllNonMinedCells" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+              <test-case name="MinesweeperTestLib.MinesweeperTest.testGamewinOnExposingMinedCells" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+              <test-case name="MinesweeperTestLib.MinesweeperTest.testGameWinOnSealingAllMineCells" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+              <test-case name="MinesweeperTestLib.MinesweeperTest.testGamewinOnSealingdMineCell" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+              <test-case name="MinesweeperTestLib.MinesweeperTest.testGetAdjacentCellCountForCornerCell" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+              <test-case name="MinesweeperTestLib.MinesweeperTest.testGetAdjacentCellCountIfEightNeighborMines" executed="True" result="Success" success="True" time="0.004" asserts="1" />
+              <test-case name="MinesweeperTestLib.MinesweeperTest.testGetAdjacentCellCountIfFiveNeighborMines" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+              <test-case name="MinesweeperTestLib.MinesweeperTest.testGetAdjacentCellCountIfFourNeighborMines" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+              <test-case name="MinesweeperTestLib.MinesweeperTest.testGetAdjacentCellCountIfNoNeighborMines" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="MinesweeperTestLib.MinesweeperTest.testGetAdjacentCellCountIfOneNeighborMines" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="MinesweeperTestLib.MinesweeperTest.testGetAdjacentCellCountIfSevenNeighborMines" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+              <test-case name="MinesweeperTestLib.MinesweeperTest.testGetAdjacentCellCountIfSixNeighborMines" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="MinesweeperTestLib.MinesweeperTest.testGetAdjacentCellCountIfThreeNeighborMines" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+              <test-case name="MinesweeperTestLib.MinesweeperTest.testGetAdjacentCellCountIfTwoNeighborMines" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+              <test-case name="MinesweeperTestLib.MinesweeperTest.testIsGameOverOnCreate" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="MinesweeperTestLib.MinesweeperTest.testNumberOfMinesPlacedIsTen" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+              <test-case name="MinesweeperTestLib.MinesweeperTest.testPlaceMinesForFirstTime" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+              <test-case name="MinesweeperTestLib.MinesweeperTest.testSealACell" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+              <test-case name="MinesweeperTestLib.MinesweeperTest.testSealAnExposedCell" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+              <test-case name="MinesweeperTestLib.MinesweeperTest.testSealASealedCell" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="MinesweeperTestLib.MinesweeperTest.testUnsealACell" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="MinesweeperTestLib.MinesweeperTest.testUnsealAUnsealCell" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

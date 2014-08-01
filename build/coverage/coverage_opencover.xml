@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CoverageSession xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Modules>
+    <Module skippedDueTo="Filter" hash="55-24-7C-23-B7-C4-72-A1-6E-FC-25-56-E7-98-98-8D-D4-7B-07-D7">
+      <FullName>C:\Windows\assembly\GAC_32\mscorlib\2.0.0.0__b77a5c561934e089\mscorlib.dll</FullName>
+      <ModuleName>mscorlib</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="F9-04-A8-31-CD-FB-23-72-95-63-5D-14-9A-A0-66-8E-7F-44-93-7A">
+      <FullName>C:\Windows\assembly\GAC_32\mscorlib\2.0.0.0__b77a5c561934e089\sorttbls.nlp</FullName>
+      <ModuleName>mscorlib</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="6E-30-2E-50-36-FB-60-2C-8E-50-C0-83-54-8B-CC-EA-A8-91-B6-CC">
+      <FullName>C:\Windows\assembly\GAC_32\mscorlib\2.0.0.0__b77a5c561934e089\sortkey.nlp</FullName>
+      <ModuleName>mscorlib</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="5C-49-87-3D-93-1B-34-20-27-49-8D-7A-E3-57-E4-FC-E4-83-63-82">
+      <FullName>C:\Users\Karthik\Documents\UH\chittiprolu_valle\lib\nunit\net-2.0\nunit-console-x86.exe</FullName>
+      <ModuleName>nunit-console-x86</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="98-BD-7D-49-3E-D0-E3-32-35-9C-2C-54-9E-FB-72-2A-1F-D3-17-74">
+      <FullName>C:\Users\Karthik\Documents\UH\chittiprolu_valle\lib\nunit\net-2.0\lib\nunit-console-runner.dll</FullName>
+      <ModuleName>nunit-console-runner</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="67-AB-54-9F-65-84-32-B9-65-1C-6D-B3-98-0E-2E-A2-10-50-EA-E6">
+      <FullName>C:\Users\Karthik\Documents\UH\chittiprolu_valle\lib\nunit\net-2.0\lib\nunit.core.dll</FullName>
+      <ModuleName>nunit.core</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="6C-5D-ED-6D-A0-65-E4-43-8C-B5-D7-A9-0A-6C-93-C3-69-BC-E4-B6">
+      <FullName>C:\Users\Karthik\Documents\UH\chittiprolu_valle\lib\nunit\net-2.0\lib\nunit.util.dll</FullName>
+      <ModuleName>nunit.util</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="8E-D3-4A-5E-58-5B-17-F6-F7-CD-47-F9-F1-E2-59-23-C1-E5-DA-5E">
+      <FullName>C:\Users\Karthik\Documents\UH\chittiprolu_valle\lib\nunit\net-2.0\lib\nunit.core.interfaces.dll</FullName>
+      <ModuleName>nunit.core.interfaces</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="29-7F-1D-47-A0-C2-1E-79-72-DB-55-8B-77-17-5A-36-3F-AB-C9-49">
+      <FullName>C:\Windows\assembly\GAC_MSIL\System.Configuration\2.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll</FullName>
+      <ModuleName>System.Configuration</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="D3-99-70-9D-4C-FD-70-CC-82-00-AA-75-7A-54-8C-25-AC-54-B1-BF">
+      <FullName>C:\Windows\assembly\GAC_MSIL\System\2.0.0.0__b77a5c561934e089\System.dll</FullName>
+      <ModuleName>System</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="9F-38-A5-E1-C0-92-04-A9-56-32-B4-1B-B5-9F-34-1D-C5-C9-28-43">
+      <FullName>C:\Windows\assembly\GAC_MSIL\System.Xml\2.0.0.0__b77a5c561934e089\System.Xml.dll</FullName>
+      <ModuleName>System.Xml</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="92-44-10-37-4C-84-2D-65-E3-A0-6A-B9-9F-01-42-6A-27-41-4A-8C">
+      <FullName>C:\Windows\assembly\GAC_MSIL\System.Runtime.Remoting\2.0.0.0__b77a5c561934e089\System.Runtime.Remoting.dll</FullName>
+      <ModuleName>System.Runtime.Remoting</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="E8-6F-D3-7D-2F-B5-55-55-F0-86-67-56-5B-51-AD-27-55-28-F6-98">
+      <FullName>C:\Windows\Microsoft.Net\assembly\GAC_32\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll</FullName>
+      <ModuleName>mscorlib</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="DB-CC-9A-E8-ED-34-03-11-96-85-C3-34-D5-1F-D0-70-40-18-15-9E">
+      <FullName>C:\Users\Karthik\Documents\UH\chittiprolu_valle\lib\nunit\net-2.0\nunit-agent-x86.exe</FullName>
+      <ModuleName>nunit-agent-x86</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="67-AB-54-9F-65-84-32-B9-65-1C-6D-B3-98-0E-2E-A2-10-50-EA-E6">
+      <FullName>C:\Users\Karthik\Documents\UH\chittiprolu_valle\lib\nunit\net-2.0\lib\nunit.core.dll</FullName>
+      <ModuleName>nunit.core</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="6C-5D-ED-6D-A0-65-E4-43-8C-B5-D7-A9-0A-6C-93-C3-69-BC-E4-B6">
+      <FullName>C:\Users\Karthik\Documents\UH\chittiprolu_valle\lib\nunit\net-2.0\lib\nunit.util.dll</FullName>
+      <ModuleName>nunit.util</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="8E-D3-4A-5E-58-5B-17-F6-F7-CD-47-F9-F1-E2-59-23-C1-E5-DA-5E">
+      <FullName>C:\Users\Karthik\Documents\UH\chittiprolu_valle\lib\nunit\net-2.0\lib\nunit.core.interfaces.dll</FullName>
+      <ModuleName>nunit.core.interfaces</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="E2-F5-B2-29-97-A3-F2-F5-8D-64-2E-E8-2C-C6-C1-34-2A-93-30-23">
+      <FullName>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll</FullName>
+      <ModuleName>System</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="84-64-E1-D2-0A-E2-91-23-AD-BD-B9-7A-3C-89-7B-66-65-58-46-1C">
+      <FullName>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Runtime.Remoting\v4.0_4.0.0.0__b77a5c561934e089\System.Runtime.Remoting.dll</FullName>
+      <ModuleName>System.Runtime.Remoting</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="80-32-3B-47-08-F0-74-C4-64-F6-98-9B-54-B3-69-B5-B9-29-D3-E9">
+      <FullName>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll</FullName>
+      <ModuleName>System.Configuration</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="4E-89-38-9F-47-4E-A3-89-AA-A8-57-BE-BD-43-49-E2-6C-34-B3-66">
+      <FullName>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll</FullName>
+      <ModuleName>System.Xml</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="CE-99-9D-20-27-A7-BB-E2-6B-B9-82-D8-59-65-04-44-22-E6-C4-91">
+      <FullName>C:\Windows\Microsoft.Net\assembly\GAC_32\System.Web\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Web.dll</FullName>
+      <ModuleName>System.Web</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="CA-19-B8-DD-D9-E8-2B-89-98-47-6A-F7-0F-A8-20-EF-9B-42-F3-5F">
+      <FullName>C:\Windows\assembly\GAC_32\System.Web\2.0.0.0__b03f5f7f11d50a3a\System.Web.dll</FullName>
+      <ModuleName>System.Web</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="67-AB-54-9F-65-84-32-B9-65-1C-6D-B3-98-0E-2E-A2-10-50-EA-E6">
+      <FullName>C:\Users\Karthik\Documents\UH\chittiprolu_valle\lib\nunit\net-2.0\lib\nunit.core.dll</FullName>
+      <ModuleName>nunit.core</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="E2-F5-B2-29-97-A3-F2-F5-8D-64-2E-E8-2C-C6-C1-34-2A-93-30-23">
+      <FullName>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll</FullName>
+      <ModuleName>System</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="80-32-3B-47-08-F0-74-C4-64-F6-98-9B-54-B3-69-B5-B9-29-D3-E9">
+      <FullName>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll</FullName>
+      <ModuleName>System.Configuration</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="4E-89-38-9F-47-4E-A3-89-AA-A8-57-BE-BD-43-49-E2-6C-34-B3-66">
+      <FullName>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll</FullName>
+      <ModuleName>System.Xml</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="58-95-C1-AF-C4-E5-C6-BB-F3-54-7A-B0-3C-B7-C6-29-C9-42-CA-D4">
+      <FullName>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll</FullName>
+      <ModuleName>System.Core</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="8E-D3-4A-5E-58-5B-17-F6-F7-CD-47-F9-F1-E2-59-23-C1-E5-DA-5E">
+      <FullName>C:\Users\Karthik\Documents\UH\chittiprolu_valle\lib\nunit\net-2.0\lib\nunit.core.interfaces.dll</FullName>
+      <ModuleName>nunit.core.interfaces</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="3D-D5-C4-89-47-85-00-AE-96-49-9B-15-A7-79-E0-4A-F0-C2-EF-D6">
+      <FullName>C:\Users\Karthik\Documents\UH\chittiprolu_valle\Assign1\build\testClasses\MinesweeperTestLib.dll</FullName>
+      <ModuleName>MinesweeperTestLib</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="25-1F-A6-07-90-89-8B-F4-2B-DF-54-34-1E-DB-2B-FC-40-06-CF-88">
+      <FullName>C:\Users\Karthik\Documents\UH\chittiprolu_valle\Assign1\build\testClasses\nunit.framework.dll</FullName>
+      <ModuleName>nunit.framework</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="98-BD-7D-49-3E-D0-E3-32-35-9C-2C-54-9E-FB-72-2A-1F-D3-17-74">
+      <FullName>C:\Users\Karthik\Documents\UH\chittiprolu_valle\lib\nunit\net-2.0\lib\nunit-console-runner.dll</FullName>
+      <ModuleName>nunit-console-runner</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="84-64-E1-D2-0A-E2-91-23-AD-BD-B9-7A-3C-89-7B-66-65-58-46-1C">
+      <FullName>C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Runtime.Remoting\v4.0_4.0.0.0__b77a5c561934e089\System.Runtime.Remoting.dll</FullName>
+      <ModuleName>System.Runtime.Remoting</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="39-50-27-F2-13-CF-87-27-D8-C7-D2-F2-F0-21-54-32-84-9F-17-4B">
+      <FullName>C:\Users\Karthik\Documents\UH\chittiprolu_valle\lib\nunit\net-2.0\lib\log4net.dll</FullName>
+      <ModuleName>log4net</ModuleName>
+      <Classes />
+    </Module>
+    <Module hash="18-EE-B3-4C-EC-60-03-B7-C1-71-5A-7A-E5-17-A4-4C-94-61-E7-8C">
+      <FullName>C:\Users\Karthik\Documents\UH\chittiprolu_valle\Assign1\build\testClasses\Assign.dll</FullName>
+      <ModuleName>Assign</ModuleName>
+      <Files>
+        <File uid="1" fullPath="c:\Users\Karthik\Documents\UH\chittiprolu_valle\Assign1\MinesweeperApp\MinesweeperLib\Src\Minesweeper.cs" />
+      </Files>
+      <Classes>
+        <Class>
+          <FullName>&lt;Module&gt;</FullName>
+          <Methods />
+        </Class>
+        <Class>
+          <FullName>MinesweeperLib.Minesweeper</FullName>
+          <Methods>
+            <Method visited="true" cyclomaticComplexity="3" sequenceCoverage="100" branchCoverage="100" isConstructor="true" isStatic="false" isGetter="false" isSetter="false">
+              <MetadataToken>100663297</MetadataToken>
+              <Name>System.Void MinesweeperLib.Minesweeper::.ctor()</Name>
+              <FileRef uid="1" />
+              <SequencePoints>
+                <SequencePoint vc="47" uspid="1" ordinal="0" offset="0" sl="12" sc="9" el="12" ec="58" />
+                <SequencePoint vc="47" uspid="2" ordinal="1" offset="15" sl="14" sc="9" el="14" ec="73" />
+                <SequencePoint vc="47" uspid="3" ordinal="2" offset="30" sl="17" sc="9" el="17" ec="29" />
+                <SequencePoint vc="47" uspid="4" ordinal="3" offset="37" sl="18" sc="9" el="18" ec="10" />
+                <SequencePoint vc="47" uspid="5" ordinal="4" offset="38" sl="19" sc="18" el="19" ec="28" />
+                <SequencePoint vc="470" uspid="6" ordinal="5" offset="42" sl="20" sc="22" el="20" ec="32" />
+                <SequencePoint vc="4700" uspid="7" ordinal="6" offset="46" sl="21" sc="17" el="21" ec="18" />
+                <SequencePoint vc="4700" uspid="8" ordinal="7" offset="47" sl="22" sc="21" el="22" ec="44" />
+                <SequencePoint vc="4700" uspid="9" ordinal="8" offset="61" sl="23" sc="21" el="23" ec="62" />
+                <SequencePoint vc="4700" uspid="10" ordinal="9" offset="75" sl="24" sc="17" el="24" ec="18" />
+                <SequencePoint vc="4700" uspid="11" ordinal="10" offset="76" sl="20" sc="43" el="20" ec="46" />
+                <SequencePoint vc="5170" uspid="12" ordinal="11" offset="80" sl="20" sc="33" el="20" ec="41" />
+                <SequencePoint vc="470" uspid="13" ordinal="12" offset="89" sl="19" sc="39" el="19" ec="42" />
+                <SequencePoint vc="517" uspid="14" ordinal="13" offset="93" sl="19" sc="29" el="19" ec="37" />
+                <SequencePoint vc="47" uspid="15" ordinal="14" offset="102" sl="25" sc="9" el="25" ec="10" />
+              </SequencePoints>
+              <BranchPoints>
+                <BranchPoint vc="470" uspid="16" ordinal="0" offset="87" path="0" />
+                <BranchPoint vc="4700" uspid="17" ordinal="1" offset="87" path="1" />
+                <BranchPoint vc="47" uspid="18" ordinal="2" offset="100" path="0" />
+                <BranchPoint vc="470" uspid="19" ordinal="3" offset="100" path="1" />
+              </BranchPoints>
+              <MethodPoint xsi:type="SequencePoint" vc="47" uspid="1" ordinal="0" offset="0" sl="12" sc="9" el="12" ec="58" />
+            </Method>
+            <Method visited="true" cyclomaticComplexity="4" sequenceCoverage="100" branchCoverage="100" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <MetadataToken>100663298</MetadataToken>
+              <Name>System.Boolean MinesweeperLib.Minesweeper::ExposeCell(System.Int32,System.Int32)</Name>
+              <FileRef uid="1" />
+              <SequencePoints>
+                <SequencePoint vc="213" uspid="20" ordinal="0" offset="0" sl="28" sc="9" el="28" ec="10" />
+                <SequencePoint vc="213" uspid="21" ordinal="1" offset="1" sl="29" sc="13" el="29" ec="115" />
+                <SequencePoint vc="13" uspid="22" ordinal="2" offset="44" sl="30" sc="17" el="30" ec="30" />
+                <SequencePoint vc="200" uspid="23" ordinal="3" offset="48" sl="31" sc="13" el="31" ec="39" />
+                <SequencePoint vc="3" uspid="24" ordinal="4" offset="68" sl="32" sc="13" el="32" ec="14" />
+                <SequencePoint vc="3" uspid="25" ordinal="5" offset="69" sl="33" sc="17" el="33" ec="64" />
+                <SequencePoint vc="3" uspid="26" ordinal="6" offset="83" sl="34" sc="17" el="34" ec="33" />
+                <SequencePoint vc="3" uspid="27" ordinal="7" offset="90" sl="35" sc="17" el="35" ec="30" />
+                <SequencePoint vc="3" uspid="28" ordinal="8" offset="97" sl="36" sc="13" el="36" ec="14" />
+                <SequencePoint vc="200" uspid="29" ordinal="9" offset="98" sl="37" sc="13" el="37" ec="60" />
+                <SequencePoint vc="200" uspid="30" ordinal="10" offset="112" sl="38" sc="13" el="38" ec="25" />
+                <SequencePoint vc="213" uspid="31" ordinal="11" offset="116" sl="39" sc="9" el="39" ec="10" />
+              </SequencePoints>
+              <BranchPoints>
+                <BranchPoint vc="212" uspid="32" ordinal="0" offset="15" path="0" />
+                <BranchPoint vc="1" uspid="33" ordinal="1" offset="15" path="1" />
+                <BranchPoint vc="13" uspid="34" ordinal="2" offset="42" path="0" />
+                <BranchPoint vc="200" uspid="35" ordinal="3" offset="42" path="1" />
+                <BranchPoint vc="3" uspid="36" ordinal="4" offset="66" path="0" />
+                <BranchPoint vc="197" uspid="37" ordinal="5" offset="66" path="1" />
+              </BranchPoints>
+              <MethodPoint xsi:type="SequencePoint" vc="213" uspid="20" ordinal="0" offset="0" sl="28" sc="9" el="28" ec="10" />
+            </Method>
+            <Method visited="true" cyclomaticComplexity="3" sequenceCoverage="100" branchCoverage="100" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <MetadataToken>100663299</MetadataToken>
+              <Name>System.Boolean MinesweeperLib.Minesweeper::SealACell(System.Int32,System.Int32)</Name>
+              <FileRef uid="1" />
+              <SequencePoints>
+                <SequencePoint vc="29" uspid="38" ordinal="0" offset="0" sl="42" sc="9" el="42" ec="10" />
+                <SequencePoint vc="29" uspid="39" ordinal="1" offset="1" sl="43" sc="13" el="43" ec="115" />
+                <SequencePoint vc="2" uspid="40" ordinal="2" offset="44" sl="44" sc="17" el="44" ec="30" />
+                <SequencePoint vc="27" uspid="41" ordinal="3" offset="48" sl="46" sc="13" el="46" ec="59" />
+                <SequencePoint vc="27" uspid="42" ordinal="4" offset="62" sl="47" sc="13" el="47" ec="25" />
+                <SequencePoint vc="29" uspid="43" ordinal="5" offset="66" sl="48" sc="9" el="48" ec="10" />
+              </SequencePoints>
+              <BranchPoints>
+                <BranchPoint vc="28" uspid="44" ordinal="0" offset="15" path="0" />
+                <BranchPoint vc="1" uspid="45" ordinal="1" offset="15" path="1" />
+                <BranchPoint vc="2" uspid="46" ordinal="2" offset="42" path="0" />
+                <BranchPoint vc="27" uspid="47" ordinal="3" offset="42" path="1" />
+              </BranchPoints>
+              <MethodPoint xsi:type="SequencePoint" vc="29" uspid="38" ordinal="0" offset="0" sl="42" sc="9" el="42" ec="10" />
+            </Method>
+            <Method visited="true" cyclomaticComplexity="2" sequenceCoverage="100" branchCoverage="100" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <MetadataToken>100663300</MetadataToken>
+              <Name>System.Boolean MinesweeperLib.Minesweeper::UnsealACell(System.Int32,System.Int32)</Name>
+              <FileRef uid="1" />
+              <SequencePoints>
+                <SequencePoint vc="3" uspid="48" ordinal="0" offset="0" sl="51" sc="9" el="51" ec="10" />
+                <SequencePoint vc="3" uspid="49" ordinal="1" offset="1" sl="52" sc="13" el="52" ec="66" />
+                <SequencePoint vc="1" uspid="50" ordinal="2" offset="24" sl="53" sc="17" el="53" ec="30" />
+                <SequencePoint vc="2" uspid="51" ordinal="3" offset="28" sl="55" sc="13" el="55" ec="61" />
+                <SequencePoint vc="2" uspid="52" ordinal="4" offset="42" sl="56" sc="13" el="56" ec="25" />
+                <SequencePoint vc="3" uspid="53" ordinal="5" offset="46" sl="57" sc="9" el="57" ec="10" />
+              </SequencePoints>
+              <BranchPoints>
+                <BranchPoint vc="1" uspid="54" ordinal="0" offset="22" path="0" />
+                <BranchPoint vc="2" uspid="55" ordinal="1" offset="22" path="1" />
+              </BranchPoints>
+              <MethodPoint xsi:type="SequencePoint" vc="3" uspid="48" ordinal="0" offset="0" sl="51" sc="9" el="51" ec="10" />
+            </Method>
+            <Method visited="true" cyclomaticComplexity="2" sequenceCoverage="100" branchCoverage="100" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <MetadataToken>100663301</MetadataToken>
+              <Name>System.Boolean MinesweeperLib.Minesweeper::IsGameOver()</Name>
+              <FileRef uid="1" />
+              <SequencePoints>
+                <SequencePoint vc="5" uspid="56" ordinal="0" offset="0" sl="60" sc="9" el="60" ec="10" />
+                <SequencePoint vc="5" uspid="57" ordinal="1" offset="1" sl="61" sc="13" el="61" ec="26" />
+                <SequencePoint vc="4" uspid="58" ordinal="2" offset="14" sl="62" sc="17" el="62" ec="29" />
+                <SequencePoint vc="1" uspid="59" ordinal="3" offset="18" sl="64" sc="13" el="64" ec="26" />
+                <SequencePoint vc="5" uspid="60" ordinal="4" offset="22" sl="65" sc="9" el="65" ec="10" />
+              </SequencePoints>
+              <BranchPoints>
+                <BranchPoint vc="4" uspid="61" ordinal="0" offset="12" path="0" />
+                <BranchPoint vc="1" uspid="62" ordinal="1" offset="12" path="1" />
+              </BranchPoints>
+              <MethodPoint xsi:type="SequencePoint" vc="5" uspid="56" ordinal="0" offset="0" sl="60" sc="9" el="60" ec="10" />
+            </Method>
+            <Method visited="true" cyclomaticComplexity="1" sequenceCoverage="100" branchCoverage="100" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <MetadataToken>100663302</MetadataToken>
+              <Name>System.Void MinesweeperLib.Minesweeper::SetMine(System.Int32,System.Int32)</Name>
+              <FileRef uid="1" />
+              <SequencePoints>
+                <SequencePoint vc="143" uspid="63" ordinal="0" offset="0" sl="68" sc="9" el="68" ec="10" />
+                <SequencePoint vc="143" uspid="64" ordinal="1" offset="1" sl="69" sc="13" el="69" ec="42" />
+                <SequencePoint vc="143" uspid="65" ordinal="2" offset="15" sl="70" sc="9" el="70" ec="10" />
+              </SequencePoints>
+              <BranchPoints />
+              <MethodPoint xsi:type="SequencePoint" vc="143" uspid="63" ordinal="0" offset="0" sl="68" sc="9" el="68" ec="10" />
+            </Method>
+            <Method visited="true" cyclomaticComplexity="8" sequenceCoverage="100" branchCoverage="100" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <MetadataToken>100663303</MetadataToken>
+              <Name>System.Int32 MinesweeperLib.Minesweeper::GetAdjacentCellCount(System.Int32,System.Int32)</Name>
+              <FileRef uid="1" />
+              <SequencePoints>
+                <SequencePoint vc="441" uspid="66" ordinal="0" offset="0" sl="73" sc="9" el="73" ec="10" />
+                <SequencePoint vc="441" uspid="67" ordinal="1" offset="1" sl="74" sc="13" el="74" ec="27" />
+                <SequencePoint vc="441" uspid="68" ordinal="2" offset="3" sl="75" sc="18" el="75" ec="34" />
+                <SequencePoint vc="1323" uspid="69" ordinal="3" offset="9" sl="76" sc="22" el="76" ec="41" />
+                <SequencePoint vc="3969" uspid="70" ordinal="4" offset="15" sl="77" sc="17" el="77" ec="18" />
+                <SequencePoint vc="3969" uspid="71" ordinal="5" offset="16" sl="78" sc="21" el="78" ec="66" />
+                <SequencePoint vc="3485" uspid="72" ordinal="6" offset="47" sl="79" sc="21" el="79" ec="22" />
+                <SequencePoint vc="3485" uspid="73" ordinal="7" offset="48" sl="80" sc="25" el="80" ec="44" />
+                <SequencePoint vc="152" uspid="74" ordinal="8" offset="70" sl="81" sc="29" el="81" ec="37" />
+                <SequencePoint vc="3485" uspid="75" ordinal="9" offset="74" sl="82" sc="21" el="82" ec="22" />
+                <SequencePoint vc="3969" uspid="76" ordinal="10" offset="75" sl="83" sc="17" el="83" ec="18" />
+                <SequencePoint vc="3969" uspid="77" ordinal="11" offset="76" sl="76" sc="59" el="76" ec="62" />
+                <SequencePoint vc="5292" uspid="78" ordinal="12" offset="80" sl="76" sc="42" el="76" ec="57" />
+                <SequencePoint vc="1323" uspid="79" ordinal="13" offset="95" sl="75" sc="49" el="75" ec="52" />
+                <SequencePoint vc="1764" uspid="80" ordinal="14" offset="99" sl="75" sc="35" el="75" ec="47" />
+                <SequencePoint vc="441" uspid="81" ordinal="15" offset="114" sl="84" sc="13" el="84" ec="26" />
+                <SequencePoint vc="441" uspid="82" ordinal="16" offset="118" sl="85" sc="9" el="85" ec="10" />
+              </SequencePoints>
+              <BranchPoints>
+                <BranchPoint vc="3843" uspid="83" ordinal="0" offset="18" path="0" />
+                <BranchPoint vc="126" uspid="84" ordinal="1" offset="18" path="1" />
+                <BranchPoint vc="3720" uspid="85" ordinal="2" offset="23" path="0" />
+                <BranchPoint vc="123" uspid="86" ordinal="3" offset="23" path="1" />
+                <BranchPoint vc="3600" uspid="87" ordinal="4" offset="27" path="0" />
+                <BranchPoint vc="120" uspid="88" ordinal="5" offset="27" path="1" />
+                <BranchPoint vc="3485" uspid="89" ordinal="6" offset="45" path="0" />
+                <BranchPoint vc="484" uspid="90" ordinal="7" offset="45" path="1" />
+                <BranchPoint vc="152" uspid="91" ordinal="8" offset="68" path="0" />
+                <BranchPoint vc="3333" uspid="92" ordinal="9" offset="68" path="1" />
+                <BranchPoint vc="1323" uspid="93" ordinal="10" offset="93" path="0" />
+                <BranchPoint vc="3969" uspid="94" ordinal="11" offset="93" path="1" />
+                <BranchPoint vc="441" uspid="95" ordinal="12" offset="112" path="0" />
+                <BranchPoint vc="1323" uspid="96" ordinal="13" offset="112" path="1" />
+              </BranchPoints>
+              <MethodPoint xsi:type="SequencePoint" vc="441" uspid="66" ordinal="0" offset="0" sl="73" sc="9" el="73" ec="10" />
+            </Method>
+            <Method visited="true" cyclomaticComplexity="11" sequenceCoverage="100" branchCoverage="100" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <MetadataToken>100663304</MetadataToken>
+              <Name>System.Boolean MinesweeperLib.Minesweeper::ExposeNeighboringCells(System.Int32,System.Int32)</Name>
+              <FileRef uid="1" />
+              <SequencePoints>
+                <SequencePoint vc="397" uspid="97" ordinal="0" offset="0" sl="88" sc="9" el="88" ec="10" />
+                <SequencePoint vc="397" uspid="98" ordinal="1" offset="1" sl="89" sc="13" el="89" ec="56" />
+                <SequencePoint vc="21" uspid="99" ordinal="2" offset="16" sl="90" sc="17" el="90" ec="30" />
+                <SequencePoint vc="376" uspid="100" ordinal="3" offset="23" sl="91" sc="18" el="91" ec="34" />
+                <SequencePoint vc="1128" uspid="101" ordinal="4" offset="29" sl="92" sc="22" el="92" ec="41" />
+                <SequencePoint vc="3384" uspid="102" ordinal="5" offset="35" sl="93" sc="17" el="93" ec="18" />
+                <SequencePoint vc="3384" uspid="103" ordinal="6" offset="36" sl="94" sc="21" el="94" ec="49" />
+                <SequencePoint vc="376" uspid="104" ordinal="7" offset="55" sl="95" sc="25" el="95" ec="34" />
+                <SequencePoint vc="3008" uspid="105" ordinal="8" offset="57" sl="96" sc="21" el="96" ec="110" />
+                <SequencePoint vc="392" uspid="106" ordinal="9" offset="99" sl="97" sc="21" el="97" ec="22" />
+                <SequencePoint vc="392" uspid="107" ordinal="10" offset="100" sl="98" sc="25" el="98" ec="65" />
+                <SequencePoint vc="392" uspid="108" ordinal="11" offset="114" sl="99" sc="25" el="99" ec="54" />
+                <SequencePoint vc="392" uspid="109" ordinal="12" offset="123" sl="100" sc="21" el="100" ec="22" />
+                <SequencePoint vc="3008" uspid="110" ordinal="13" offset="124" sl="101" sc="17" el="101" ec="18" />
+                <SequencePoint vc="3384" uspid="111" ordinal="14" offset="125" sl="92" sc="59" el="92" ec="62" />
+                <SequencePoint vc="4512" uspid="112" ordinal="15" offset="129" sl="92" sc="42" el="92" ec="57" />
+                <SequencePoint vc="1128" uspid="113" ordinal="16" offset="142" sl="91" sc="49" el="91" ec="52" />
+                <SequencePoint vc="1504" uspid="114" ordinal="17" offset="146" sl="91" sc="35" el="91" ec="47" />
+                <SequencePoint vc="376" uspid="115" ordinal="18" offset="162" sl="102" sc="13" el="102" ec="25" />
+                <SequencePoint vc="397" uspid="116" ordinal="19" offset="166" sl="103" sc="9" el="103" ec="10" />
+              </SequencePoints>
+              <BranchPoints>
+                <BranchPoint vc="21" uspid="117" ordinal="0" offset="14" path="0" />
+                <BranchPoint vc="376" uspid="118" ordinal="1" offset="14" path="1" />
+                <BranchPoint vc="1128" uspid="119" ordinal="2" offset="38" path="0" />
+                <BranchPoint vc="2256" uspid="120" ordinal="3" offset="38" path="1" />
+                <BranchPoint vc="376" uspid="121" ordinal="4" offset="53" path="0" />
+                <BranchPoint vc="3008" uspid="122" ordinal="5" offset="53" path="1" />
+                <BranchPoint vc="2888" uspid="123" ordinal="6" offset="59" path="0" />
+                <BranchPoint vc="120" uspid="124" ordinal="7" offset="59" path="1" />
+                <BranchPoint vc="2768" uspid="125" ordinal="8" offset="64" path="0" />
+                <BranchPoint vc="120" uspid="126" ordinal="9" offset="64" path="1" />
+                <BranchPoint vc="2656" uspid="127" ordinal="10" offset="68" path="0" />
+                <BranchPoint vc="112" uspid="128" ordinal="11" offset="68" path="1" />
+                <BranchPoint vc="2544" uspid="129" ordinal="12" offset="73" path="0" />
+                <BranchPoint vc="112" uspid="130" ordinal="13" offset="73" path="1" />
+                <BranchPoint vc="392" uspid="131" ordinal="14" offset="97" path="0" />
+                <BranchPoint vc="2616" uspid="132" ordinal="15" offset="97" path="1" />
+                <BranchPoint vc="1128" uspid="133" ordinal="16" offset="140" path="0" />
+                <BranchPoint vc="3384" uspid="134" ordinal="17" offset="140" path="1" />
+                <BranchPoint vc="376" uspid="135" ordinal="18" offset="157" path="0" />
+                <BranchPoint vc="1128" uspid="136" ordinal="19" offset="157" path="1" />
+              </BranchPoints>
+              <MethodPoint xsi:type="SequencePoint" vc="397" uspid="97" ordinal="0" offset="0" sl="88" sc="9" el="88" ec="10" />
+            </Method>
+            <Method visited="true" cyclomaticComplexity="9" sequenceCoverage="100" branchCoverage="100" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <MetadataToken>100663305</MetadataToken>
+              <Name>System.Char MinesweeperLib.Minesweeper::DisplayOnCell(System.Int32,System.Int32)</Name>
+              <FileRef uid="1" />
+              <SequencePoints>
+                <SequencePoint vc="46" uspid="137" ordinal="0" offset="0" sl="106" sc="9" el="106" ec="10" />
+                <SequencePoint vc="46" uspid="138" ordinal="1" offset="1" sl="107" sc="13" el="107" ec="133" />
+                <SequencePoint vc="9" uspid="139" ordinal="2" offset="48" sl="108" sc="17" el="108" ec="81" />
+                <SequencePoint vc="37" uspid="140" ordinal="3" offset="72" sl="110" sc="13" el="110" ec="98" />
+                <SequencePoint vc="2" uspid="141" ordinal="4" offset="114" sl="111" sc="17" el="111" ec="28" />
+                <SequencePoint vc="35" uspid="142" ordinal="5" offset="119" sl="113" sc="13" el="113" ec="64" />
+                <SequencePoint vc="22" uspid="143" ordinal="6" offset="142" sl="114" sc="17" el="114" ec="28" />
+                <SequencePoint vc="13" uspid="144" ordinal="7" offset="147" sl="115" sc="13" el="115" ec="107" />
+                <SequencePoint vc="1" uspid="145" ordinal="8" offset="184" sl="116" sc="17" el="116" ec="28" />
+                <SequencePoint vc="12" uspid="146" ordinal="9" offset="189" sl="118" sc="13" el="118" ec="24" />
+                <SequencePoint vc="46" uspid="147" ordinal="10" offset="194" sl="119" sc="9" el="119" ec="10" />
+              </SequencePoints>
+              <BranchPoints>
+                <BranchPoint vc="12" uspid="148" ordinal="0" offset="15" path="0" />
+                <BranchPoint vc="34" uspid="149" ordinal="1" offset="15" path="1" />
+                <BranchPoint vc="11" uspid="150" ordinal="2" offset="25" path="0" />
+                <BranchPoint vc="1" uspid="151" ordinal="3" offset="25" path="1" />
+                <BranchPoint vc="9" uspid="152" ordinal="4" offset="46" path="0" />
+                <BranchPoint vc="37" uspid="153" ordinal="5" offset="46" path="1" />
+                <BranchPoint vc="33" uspid="154" ordinal="6" offset="85" path="0" />
+                <BranchPoint vc="4" uspid="155" ordinal="7" offset="85" path="1" />
+                <BranchPoint vc="2" uspid="156" ordinal="8" offset="112" path="0" />
+                <BranchPoint vc="35" uspid="157" ordinal="9" offset="112" path="1" />
+                <BranchPoint vc="22" uspid="158" ordinal="10" offset="140" path="0" />
+                <BranchPoint vc="13" uspid="159" ordinal="11" offset="140" path="1" />
+                <BranchPoint vc="3" uspid="160" ordinal="12" offset="155" path="0" />
+                <BranchPoint vc="10" uspid="161" ordinal="13" offset="155" path="1" />
+                <BranchPoint vc="1" uspid="162" ordinal="14" offset="182" path="0" />
+                <BranchPoint vc="12" uspid="163" ordinal="15" offset="182" path="1" />
+              </BranchPoints>
+              <MethodPoint xsi:type="SequencePoint" vc="46" uspid="137" ordinal="0" offset="0" sl="106" sc="9" el="106" ec="10" />
+            </Method>
+            <Method visited="true" cyclomaticComplexity="3" sequenceCoverage="100" branchCoverage="75" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <MetadataToken>100663306</MetadataToken>
+              <Name>System.Void MinesweeperLib.Minesweeper::PlaceMines()</Name>
+              <FileRef uid="1" />
+              <SequencePoints>
+                <SequencePoint vc="6" uspid="164" ordinal="0" offset="0" sl="122" sc="9" el="122" ec="10" />
+                <SequencePoint vc="6" uspid="165" ordinal="1" offset="1" sl="123" sc="13" el="123" ec="48" />
+                <SequencePoint vc="6" uspid="166" ordinal="2" offset="7" sl="125" sc="18" el="125" ec="28" />
+                <SequencePoint vc="60" uspid="167" ordinal="3" offset="11" sl="126" sc="13" el="126" ec="14" />
+                <SequencePoint vc="60" uspid="168" ordinal="4" offset="12" sl="127" sc="17" el="127" ec="58" />
+                <SequencePoint vc="60" uspid="169" ordinal="5" offset="22" sl="128" sc="17" el="128" ec="58" />
+                <SequencePoint vc="60" uspid="170" ordinal="6" offset="32" sl="129" sc="17" el="129" ec="53" />
+                <SequencePoint vc="60" uspid="171" ordinal="7" offset="51" sl="130" sc="21" el="130" ec="25" />
+                <SequencePoint vc="60" uspid="172" ordinal="8" offset="55" sl="131" sc="17" el="131" ec="47" />
+                <SequencePoint vc="60" uspid="173" ordinal="9" offset="64" sl="132" sc="13" el="132" ec="14" />
+                <SequencePoint vc="66" uspid="174" ordinal="10" offset="65" sl="125" sc="29" el="125" ec="35" />
+                <SequencePoint vc="6" uspid="175" ordinal="11" offset="76" sl="133" sc="9" el="133" ec="10" />
+              </SequencePoints>
+              <BranchPoints>
+                <BranchPoint vc="60" uspid="176" ordinal="0" offset="49" path="0" />
+                <BranchPoint vc="0" uspid="177" ordinal="1" offset="49" path="1" />
+                <BranchPoint vc="6" uspid="178" ordinal="2" offset="74" path="0" />
+                <BranchPoint vc="60" uspid="179" ordinal="3" offset="74" path="1" />
+              </BranchPoints>
+              <MethodPoint xsi:type="SequencePoint" vc="6" uspid="164" ordinal="0" offset="0" sl="122" sc="9" el="122" ec="10" />
+            </Method>
+            <Method visited="true" cyclomaticComplexity="9" sequenceCoverage="100" branchCoverage="100" isConstructor="false" isStatic="false" isGetter="false" isSetter="false">
+              <MetadataToken>100663307</MetadataToken>
+              <Name>System.Boolean MinesweeperLib.Minesweeper::CheckGameWin()</Name>
+              <FileRef uid="1" />
+              <SequencePoints>
+                <SequencePoint vc="5" uspid="180" ordinal="0" offset="0" sl="136" sc="9" el="136" ec="10" />
+                <SequencePoint vc="5" uspid="181" ordinal="1" offset="1" sl="137" sc="13" el="137" ec="33" />
+                <SequencePoint vc="5" uspid="182" ordinal="2" offset="3" sl="138" sc="13" el="138" ec="41" />
+                <SequencePoint vc="5" uspid="183" ordinal="3" offset="5" sl="140" sc="18" el="140" ec="28" />
+                <SequencePoint vc="50" uspid="184" ordinal="4" offset="9" sl="141" sc="22" el="141" ec="32" />
+                <SequencePoint vc="500" uspid="185" ordinal="5" offset="13" sl="142" sc="17" el="142" ec="18" />
+                <SequencePoint vc="500" uspid="186" ordinal="6" offset="14" sl="143" sc="21" el="143" ec="70" />
+                <SequencePoint vc="21" uspid="187" ordinal="7" offset="54" sl="144" sc="21" el="144" ec="22" />
+                <SequencePoint vc="21" uspid="188" ordinal="8" offset="55" sl="145" sc="25" el="145" ec="39" />
+                <SequencePoint vc="21" uspid="189" ordinal="9" offset="59" sl="146" sc="21" el="146" ec="22" />
+                <SequencePoint vc="500" uspid="190" ordinal="10" offset="60" sl="147" sc="21" el="147" ec="85" />
+                <SequencePoint vc="180" uspid="191" ordinal="11" offset="104" sl="148" sc="21" el="148" ec="22" />
+                <SequencePoint vc="180" uspid="192" ordinal="12" offset="105" sl="149" sc="25" el="149" ec="47" />
+                <SequencePoint vc="180" uspid="193" ordinal="13" offset="109" sl="150" sc="21" el="150" ec="22" />
+                <SequencePoint vc="500" uspid="194" ordinal="14" offset="110" sl="151" sc="17" el="151" ec="18" />
+                <SequencePoint vc="500" uspid="195" ordinal="15" offset="111" sl="141" sc="41" el="141" ec="44" />
+                <SequencePoint vc="550" uspid="196" ordinal="16" offset="115" sl="141" sc="33" el="141" ec="39" />
+                <SequencePoint vc="50" uspid="197" ordinal="17" offset="126" sl="140" sc="37" el="140" ec="40" />
+                <SequencePoint vc="55" uspid="198" ordinal="18" offset="130" sl="140" sc="29" el="140" ec="35" />
+                <SequencePoint vc="5" uspid="199" ordinal="19" offset="144" sl="152" sc="13" el="152" ec="64" />
+                <SequencePoint vc="1" uspid="200" ordinal="20" offset="167" sl="153" sc="17" el="153" ec="29" />
+                <SequencePoint vc="4" uspid="201" ordinal="21" offset="172" sl="155" sc="13" el="155" ec="26" />
+                <SequencePoint vc="5" uspid="202" ordinal="22" offset="177" sl="156" sc="9" el="156" ec="10" />
+              </SequencePoints>
+              <BranchPoints>
+                <BranchPoint vc="32" uspid="203" ordinal="0" offset="27" path="0" />
+                <BranchPoint vc="468" uspid="204" ordinal="1" offset="27" path="1" />
+                <BranchPoint vc="21" uspid="205" ordinal="2" offset="52" path="0" />
+                <BranchPoint vc="479" uspid="206" ordinal="3" offset="52" path="1" />
+                <BranchPoint vc="468" uspid="207" ordinal="4" offset="73" path="0" />
+                <BranchPoint vc="32" uspid="208" ordinal="5" offset="73" path="1" />
+                <BranchPoint vc="180" uspid="209" ordinal="6" offset="102" path="0" />
+                <BranchPoint vc="320" uspid="210" ordinal="7" offset="102" path="1" />
+                <BranchPoint vc="50" uspid="211" ordinal="8" offset="124" path="0" />
+                <BranchPoint vc="500" uspid="212" ordinal="9" offset="124" path="1" />
+                <BranchPoint vc="5" uspid="213" ordinal="10" offset="139" path="0" />
+                <BranchPoint vc="50" uspid="214" ordinal="11" offset="139" path="1" />
+                <BranchPoint vc="2" uspid="215" ordinal="12" offset="147" path="0" />
+                <BranchPoint vc="3" uspid="216" ordinal="13" offset="147" path="1" />
+                <BranchPoint vc="1" uspid="217" ordinal="14" offset="165" path="0" />
+                <BranchPoint vc="4" uspid="218" ordinal="15" offset="165" path="1" />
+              </BranchPoints>
+              <MethodPoint xsi:type="SequencePoint" vc="5" uspid="180" ordinal="0" offset="0" sl="136" sc="9" el="136" ec="10" />
+            </Method>
+          </Methods>
+        </Class>
+      </Classes>
+    </Module>
+  </Modules>
+</CoverageSession>

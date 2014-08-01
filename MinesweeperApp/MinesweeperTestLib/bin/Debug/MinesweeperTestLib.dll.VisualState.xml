@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ShowCheckBoxes="false">
+  <TopNode>[0-1038]MinesweeperTestLib.MinesweeperTest.testDisplayUnsealSealedCell</TopNode>
+  <SelectedNode>[0-1047]C:\Users\Karthik\Documents\UH\chittiprolu_valle\Assign1\MinesweeperApp\MinesweeperTestLib\bin\Debug\MinesweeperTestLib.dll</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1047]C:\Users\Karthik\Documents\UH\chittiprolu_valle\Assign1\MinesweeperApp\MinesweeperTestLib\bin\Debug\MinesweeperTestLib.dll" Expanded="true" />
+    <Node UniqueName="[0-1048]MinesweeperTestLib" Expanded="true" />
+    <Node UniqueName="[0-1000]MinesweeperTestLib.MinesweeperTest" Expanded="true" />
+  </Nodes>
+</VisualState>
